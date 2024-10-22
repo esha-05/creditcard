@@ -38,8 +38,7 @@ Copy code
 python app.py
 Open http://127.0.0.1:5000/ in your browser.
 
-Contributors
-Ritesh Singh, Karthik V, Esha T, Arjun V
+
 
 License
 MIT License
